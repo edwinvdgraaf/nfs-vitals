@@ -1,5 +1,5 @@
 <script>
-	import { formatMetric } from './formatter.ts';
+	import { formatMetric } from './formatter';
 
 	/** @type {import('./stores.ts').WritableMetric} */
 	export let metric;

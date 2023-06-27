@@ -2,7 +2,7 @@
 // const TIME_MS    = "TIME_MS";
 
 import type { Metric } from "web-vitals";
-import type { EmptyMetric } from "./stores.ts";
+import type { EmptyMetric } from "./stores";
 
 type FormatterType = "NUMERIC" | "TIME_MS";
 
